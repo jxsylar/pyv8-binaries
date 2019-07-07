@@ -30,3 +30,9 @@ For Sublime Text 3 (Python 3.3):
 * [OSX 10.7+](https://github.com/emmetio/pyv8-binaries/raw/master/pyv8-osx-p3.zip)
 * [Linux x32](https://github.com/emmetio/pyv8-binaries/raw/master/pyv8-linux32-p3.zip)
 * [Linux x64](https://github.com/emmetio/pyv8-binaries/raw/master/pyv8-linux64-p3.zip)
+
+
+python2.7  
+解压出来有如下两个文件:一个源码，一个二进制文件。将这两个文件放在 `site-package` 文件夹里即可  
+
+参考: https://segmentfault.com/a/1190000004586828  
